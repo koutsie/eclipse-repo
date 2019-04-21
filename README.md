@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://koutsie.l1nux.fun/Pill50g/pill.png" width="444" height="444" />
+<img src="https://koutsie.l1nux.fun/repo/repologo.png" width="200" height="200" />
 </p>
 
 Heres my repo for you all!<br>
