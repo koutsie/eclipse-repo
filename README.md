@@ -6,3 +6,11 @@ Heres my repo for you all!<br>
 [Add to eclipse!](https://eclipseemu.me/play/?q=repo&url=https://koutsie.l1nux.fun/repo/repo.json)
 
 [Tweet to @Koutsiee](https://twitter.com/intent/tweet?screen_name=Koutsiee&ref_src=twsrc%5Etfw)
+
+
+
+
+Im in the process of adding test roms from:
+https://gekkio.fi/files/mooneye-gb/
+http://gbdev.gg8.se/files/roms/blargg-gb-tests/
+https://github.com/pinobatch/240p-test-mini/tree/master/gameboy
