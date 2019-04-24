@@ -1,5 +1,5 @@
 
-<img src="https://koutsie.l1nux.fun/repo/repologo.png" width="200" height="200" />
+<img src="https://idiotic.me/repo/repologo.png" width="200" height="200" />
 
 Heres my repo for you all!<br>
 
