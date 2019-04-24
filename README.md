@@ -5,6 +5,8 @@ Heres my repo for you all!<br>
 
 [Add to eclipse!](https://eclipseemu.me/play/?q=repo&url=https://koutsie.l1nux.fun/repo/repo.json)
 
+[Donate?](https://liberapay.com/koutsie/donate)
+
 [Tweet to @Koutsiee](https://twitter.com/intent/tweet?screen_name=Koutsiee&ref_src=twsrc%5Etfw)
 
 
